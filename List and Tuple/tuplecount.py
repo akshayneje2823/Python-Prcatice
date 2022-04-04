@@ -1,0 +1,5 @@
+# WRITE A PROGRAM TO COUNT THR NUMBERS OF ZEROS IN THE FOLLOWING TUPLE
+# A = [2,3,0,5,0,6,0,3,0]
+
+a = [2,3,0,5,0,6,0,3,0]
+print(a.count(0))
