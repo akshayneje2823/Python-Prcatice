@@ -8,3 +8,5 @@ print(type(b))
 b = "34JDHJ67"
 b = int(b)
 print(type(b))
+
+print("hello")
