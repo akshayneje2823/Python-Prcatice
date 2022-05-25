@@ -1,0 +1,3 @@
+python speech recongnize
+python pyttsx3
+pyAudio 0.2.11
